@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="buttonStartQuiz">Start Quiz</string>
+    <string name="textViewHowGeeky">How Geeky Are You?</string>
+    <string name="buttonExit">Exit</string>
+    <string name="buttonQuit">Quit</string>
+    <string name="buttonNext">Next</string>
+    <string name="textViewQuizResult">QUIZ RESULT: </string>
+    <string name="buttonTryAgain">Try Again</string>
+</resources>
